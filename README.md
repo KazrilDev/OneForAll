@@ -26,4 +26,4 @@ DANS LE FICHIER METTEZ
 
 DB_USER=root
 DB_PASS=
-DB_NAME=botperso```
+DB_NAME=botperso
