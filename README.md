@@ -1,7 +1,3 @@
-Besoin d'aide ? Join : https://discord.gg/GEhdsMBqeT
-
-
-
 Hey 👋 today i share OneForAll 😞
 
 1- install modules (npm i)
@@ -13,6 +9,8 @@ Hey 👋 today i share OneForAll 😞
 Bye OneForAll 😞
 
 Leak By Orumaa & Kazril & hicwwq
+
+Besoin d'aide ? Join : https://discord.gg/GEhdsMBqeT
 
 ⚠️ ATTENTION : N'OUBLIEZ PAS QUE KAZRIL & ORUMAA & HICWWQ VOUS BAISERONT TOUJOURS 😀
 
