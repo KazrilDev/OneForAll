@@ -11,3 +11,19 @@ Bye OneForAll 😞
 Leak By Orumaa & Kazril & hicwwq
 
 ⚠️ ATTENTION : N'OUBLIEZ PAS QUE KAZRIL & ORUMAA & HICWWQ VOUS BAISERONT TOUJOURS 😀
+
+
+
+
+
+
+CREE UN FICHIER .env 
+
+DANS LE FICHIER METTEZ
+
+
+```TOKEN=
+
+DB_USER=root
+DB_PASS=
+DB_NAME=botperso```
