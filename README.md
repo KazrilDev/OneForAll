@@ -8,7 +8,7 @@ Hey 👋 today i share OneForAll 😞
 
 Bye OneForAll 😞
 
-Leak By Orumaa & Kazril & hicwwq
+Leak By Kazril & Orumaa & hicwwq
 
 Besoin d'aide ? Join : https://discord.gg/GEhdsMBqeT
 
